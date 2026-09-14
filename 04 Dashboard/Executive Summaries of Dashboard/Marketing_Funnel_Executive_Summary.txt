@@ -1,0 +1,10 @@
+Marketing Funnel.
+The sheet analyzes campaign performance across channels and campaigns, tracking spend, responses, and cost-efficiency over time.
+
+Partner Referral dominates as the top channel by both spend (12,099,135.18) and total responses (5,522), highlighting its critical role in campaign strategy.
+
+Paid Social closely rivals Partner Referral in responses (5,712), suggesting strong engagement at potentially different cost levels.
+
+Q3 Growth Sprint is the top-performing campaign with 5,085 responses, while NovaEdge Awareness lags significantly at just 123 responses.
+
+Total campaign spend of 25,663,250.62 yielded 14,101 total responses, <a href="d7e9f604-076a-</completion>

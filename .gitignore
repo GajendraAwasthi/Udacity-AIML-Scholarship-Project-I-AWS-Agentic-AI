@@ -1,0 +1,18 @@
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+*.swp
+*.swo
+*~
+
+# IDE & Editor configurations
+.vscode/
+.idea/
+
+# Python cache (if any scripts run locally)
+__pycache__/
+*.py[cod]
+*$py.class

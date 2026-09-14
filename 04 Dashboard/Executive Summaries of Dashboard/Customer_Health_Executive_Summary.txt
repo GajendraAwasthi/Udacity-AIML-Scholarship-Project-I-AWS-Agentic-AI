@@ -1,0 +1,10 @@
+Customer Health
+The sheet provides an overview of customer engagement and support interactions, analyzing contact channels, customer segments, engagement recency, and complaint sentiment across 63,420 records.
+
+Email is the most preferred contact channel with 22,983 records, followed by Web Portal (19,976) and Live Chat (14,132).
+
+The Professional customer segment dominates with 30,839 records, accounting for nearly half of all interactions.
+
+Days since last engagement peaks at 13 days with 5,249 records, suggesting a common re-engagement cycle.
+
+Neutral sentiment drives the most complaints at 133, vastly outnumbering negative (26) and positive (8) complaints.

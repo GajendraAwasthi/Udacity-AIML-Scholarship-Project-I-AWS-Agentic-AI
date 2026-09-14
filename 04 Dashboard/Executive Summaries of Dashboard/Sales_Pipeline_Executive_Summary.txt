@@ -1,0 +1,10 @@
+Sales Pipeline
+The sheet analyzes deal value performance over time and across the sales organization, combining trend analysis with a breakdown by sales managers and representatives.
+
+Total deal value across the organization is 100,900,682, with the highest single-day performance on Apr 4, 2024, reaching 9,430,209.
+
+Deal performance has sharply declined, with year-to-date deal_value dropping 97.86% (-4,986,074) and the lowest day, Jan 18, 2025, recording 0.
+
+Amanda Foster leads all sales managers with 30,937,508, while Priya Nair is the top sales rep at 12,258,020.
+
+Rachel Torres is the lowest-performing manager at 6,892,633, and Anya Petrov is the lowest rep at 485,968.
